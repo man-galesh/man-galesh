@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @man-galesh
-- 👀 I’m interested in ... data structures and algorithms, game designing and web development
-- 🌱 I’m currently learning ... data structure and algorithms, game designing and web development
-- 💞️ I’m looking to collaborate on ...data structure and algorithms, game designing and web development
+- 👀 I’m interested in ... Blockchain development
+- 🌱 I’m currently learning ...Ethereum development
+- 💞️ I’m looking to collaborate on ...Web and Blockchain development
 - 📫 How to reach me ... 20je0531@agp.iitism.ac.in
 
 <!---
